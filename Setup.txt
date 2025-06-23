@@ -8,6 +8,8 @@ Well follow the steps below:=
    to your IDE.
 3. Before running the code make sure that the file name of your program is HangmanGame.java only,
    if you try to run the code with different file name this will never run the program.
+4. Once you successfully run the code, Hangman Game interface(I have attached the Screenshot of
+   that interface in this repository also, i.e. "Game Interface.png") will automatically open.
 
 
 =:BEST OF LUCK:=
